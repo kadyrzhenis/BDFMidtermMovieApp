@@ -31,3 +31,15 @@ requests==2.23.0
 six==1.14.0
 sqlparse==0.3.0
 urllib3==1.25.8
+
+How to run this script
+–   Download the zip file and extract
+–   Activate the virtual environment
+–   Start the script with the following command
+–   py manage.py runserver
+–   http://127.0.0.1:8000/
+–   Access admin with http://127.0.0.1:8000/admin
+________________________________________
+Admin Credentials
+username: admin
+password: 12345
